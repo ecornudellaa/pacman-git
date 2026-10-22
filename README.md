@@ -9,4 +9,6 @@ Pac-Man es un icónico videojuego arcade de 1980 creado por el diseñador Toru I
 
 - Los enemigos: Cuatro fantasmas de colores (Blinky, Pinky, Inky y Clyde) persiguen al jugador. Si Pac-Man come una píldora especial (power pellet), puede devorar a los fantasmas temporalmente.
 
-[ELOY](https://github.com/ecornudellaa/pacman-git)
+[Jugar online a pacman](https://pacmangratis.net/.)
+
+[Link a compte github](https://github.com/ecornudellaa/pacman-git)
