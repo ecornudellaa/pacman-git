@@ -15,4 +15,9 @@ Pac-Man es un icónico videojuego arcade de 1980 creado por el diseñador Toru I
 ![Imagen Pacman](./img/img.png)
 
 
+# Informació fantasmes!
+
+[Info Inky](.)
+
 [Link a compte github](https://github.com/ecornudellaa/pacman-git)
+
